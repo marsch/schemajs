@@ -117,4 +117,4 @@ CreativeWork.addSubType('Review', Review);
 CreativeWork.addSubType('MediaObject', MediaObject);
 
 
-modules.exports = CreativeWork;
+module.exports = CreativeWork;

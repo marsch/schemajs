@@ -1,3 +1,3 @@
-var SchemaType = require('./SchemaType');
+var Thing = require('./Thing');
 
-console.log(new SchemaType());
+console.log(Thing);
